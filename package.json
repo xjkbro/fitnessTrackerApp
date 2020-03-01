@@ -1,0 +1,12 @@
+{
+  "name": "fitnesstrackerapp",
+  "version": "1.0.0",
+  "description": "Web application for tracking fitness progress.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jason-Kyle De Lara",
+  "license": "MIT"
+}
